@@ -6,7 +6,7 @@ Solution:
 Download Godot source and replace vehicle_body_3d.cpp and vehicle_body_3d.h
 
 How to use:
-2 new parameter in WheelBody3D inspector:
+2 new parameters in WheelBody3D inspector:
 
 <img width="569" height="705" alt="image" src="https://github.com/user-attachments/assets/a164b529-b1e4-420e-bf57-0d840572a260" />
 
